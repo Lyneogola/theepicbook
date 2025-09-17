@@ -22,6 +22,7 @@ Run the following commands to install **Git** and clone the project repository:
 sudo apt update -y
 sudo apt install git -y
 wget https://dev.mysql.com/get/mysql-apt-config_0.8.29-1_all.deb
+sudo apt upgrade -y
 ```
 
 Move into the project directory:
