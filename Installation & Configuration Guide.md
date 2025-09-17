@@ -1,13 +1,13 @@
 # The EpicBook! - Installation, Configuration & Troubleshooting Guide
 
 ## Introduction
-This document provides step-by-step instructions on how to install, configure, and troubleshoot **The EpicBook!** application on **Amazon Linux 2** or a local machine.
+This document provides step-by-step instructions on how to install, configure, and troubleshoot **The EpicBook!** application on **Ubuntu 22.01 LTS** or a local machine.
 
 ---
 
 ## **Prerequisites**
 Before installing the application, ensure you have the following dependencies:
-- **Amazon Linux 2** or **Local Machine** (with Linux/macOS support)
+- **Ubuntu 22.01 LTS** or **Local Machine** (with Linux/macOS support)
 - **MySQL Server 5.7**
 - **Node.js & npm**
 - **Git**
