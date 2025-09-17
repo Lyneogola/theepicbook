@@ -19,8 +19,9 @@ Before installing the application, ensure you have the following dependencies:
 Run the following commands to install **Git** and clone the project repository:
 
 ```bash
-sudo yum install git -y
-git clone https://github.com/pravinmishraaws/theepicbook
+sudo apt update -y
+sudo apt install git -y
+wget https://dev.mysql.com/get/mysql-apt-config_0.8.29-1_all.deb
 ```
 
 Move into the project directory:
